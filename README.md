@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley Guthrie!</h1>
-<h3 align="center">I'm a full stack software engineer with experience developing web app and desktop applications.</h3>
+<h3 align="center">I'm a full stack software engineer with experience developing web and desktop applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
